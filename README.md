@@ -3,7 +3,10 @@ Trying Out Causal Machine Learning
 
 
 
-
+#### to save the environment in requirements.txt
+```bash
+pip list --format=freeze > requirements.txt
+```
 
 #### Baic git commands
 ```bash
